@@ -5,7 +5,7 @@ let handler = async (m, { conn }) => await conn.sendButtonLoc(m.chat, await (awa
 ┌〔 Donasi • Emoney 〕
 ├ GoPay: 085730903853 [AlyaXd]
 ├ Dana: 082221792667 [BOTCAHX]
-├ Pulsa: 081395861695 [BOTCAHX]
+├ Pulsa: 083830815715 [I M E L]
 └────
 `.trim(), watermark, 'Menu', '.menu', m)
 handler.help = ['donasi']
